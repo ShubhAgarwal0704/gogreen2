@@ -13,7 +13,10 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="REGISTER"
+<<<<<<< HEAD
         android:layout_marginRight="110sp"
+=======
+>>>>>>> 071f82f (Initial commit)
 
         android:textSize="32sp"
         android:textStyle="bold"
@@ -36,8 +39,12 @@
         android:textColor="@color/outlinecolr"/>
     <EditText
         android:id="@+id/editTextInput1"
+<<<<<<< HEAD
         android:layout_width="300sp"
         android:layout_marginRight="40sp"
+=======
+        android:layout_width="370sp"
+>>>>>>> 071f82f (Initial commit)
         android:layout_height="wrap_content"
         android:layout_marginTop="10dp"
         android:hint="Enter your Name here"
@@ -57,8 +64,12 @@
         android:textColor="@color/outlinecolr"/>
     <EditText
         android:id="@+id/editTextInput2"
+<<<<<<< HEAD
         android:layout_width="300sp"
         android:layout_marginRight="40sp"
+=======
+        android:layout_width="370sp"
+>>>>>>> 071f82f (Initial commit)
         android:layout_height="wrap_content"
         android:layout_marginTop="10dp"
         android:hint="Enter your Email here"
@@ -78,8 +89,12 @@
         android:textColor="@color/outlinecolr"/>
     <EditText
         android:id="@+id/editTextInput3"
+<<<<<<< HEAD
         android:layout_width="300sp"
         android:layout_marginRight="40sp"
+=======
+        android:layout_width="370sp"
+>>>>>>> 071f82f (Initial commit)
         android:layout_height="wrap_content"
         android:layout_marginTop="10dp"
         android:hint="Enter your Address here"
@@ -99,8 +114,12 @@
         android:textColor="@color/outlinecolr"/>
     <EditText
         android:id="@+id/editTextInput4"
+<<<<<<< HEAD
         android:layout_width="300sp"
         android:layout_marginRight="40sp"
+=======
+        android:layout_width="370sp"
+>>>>>>> 071f82f (Initial commit)
         android:layout_height="wrap_content"
         android:layout_marginTop="10dp"
         android:hint="Enter your Username here"
@@ -120,8 +139,12 @@
         android:textColor="@color/outlinecolr"/>
     <EditText
         android:id="@+id/editTextInput5"
+<<<<<<< HEAD
         android:layout_width="300sp"
         android:layout_marginRight="40sp"
+=======
+        android:layout_width="370sp"
+>>>>>>> 071f82f (Initial commit)
         android:layout_height="wrap_content"
         android:layout_marginTop="10dp"
         android:hint="Enter your Gender here"
@@ -141,8 +164,12 @@
         android:textColor="@color/outlinecolr"/>
     <EditText
         android:id="@+id/editTextInput6"
+<<<<<<< HEAD
         android:layout_width="300sp"
         android:layout_marginRight="40sp"
+=======
+        android:layout_width="370sp"
+>>>>>>> 071f82f (Initial commit)
         android:layout_height="wrap_content"
         android:layout_marginTop="10dp"
         android:hint="Enter your Password here"
@@ -162,11 +189,17 @@
         android:textColor="@color/outlinecolr"/>
     <EditText
         android:id="@+id/editTextInput7"
+<<<<<<< HEAD
         android:layout_width="300sp"
         android:layout_marginRight="40sp"
         android:layout_height="wrap_content"
         android:layout_marginTop="10dp"
         android:layout_marginBottom="20sp"
+=======
+        android:layout_width="370sp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+>>>>>>> 071f82f (Initial commit)
         android:hint="Enter your Confirm Password here"
         android:textColorHint="@color/hintColor"
         android:background="@drawable/input_box_background"
@@ -177,7 +210,11 @@
         android:id="@+id/btn1"
         android:layout_width="120dp"
         android:layout_height="wrap_content"
+<<<<<<< HEAD
         android:layout_marginTop="0sp"
+=======
+        android:layout_marginTop="50sp"
+>>>>>>> 071f82f (Initial commit)
         android:text="SUBMIT"
         style="@style/CustomButtonStyle"/>
 </LinearLayout>
